@@ -1,0 +1,112 @@
+id: f56c6b57e1e449a98896057cab3f9af9
+annotation_type: index
+revision: '00001'
+annotations:
+  0039a4dee4fe4e5f9d58598dd77dffbc:
+    work_id: WB3351D00
+    span:
+      vol: CI_§62
+      start: 0
+      end: 527
+  be2f2c011b0e4d7ea1f0134bd3f67e0c:
+    work_id: W40804684
+    span:
+      vol: CI_§63
+      start: 0
+      end: 1113
+  bc07652d8c8f4b40b915f038602cedc1:
+    work_id: WA7D4AF4A
+    span:
+      vol: CI_§64
+      start: 0
+      end: 752
+  543fc23bffb0416c80e0bb40291b40fc:
+    work_id: WB154E117
+    span:
+      vol: CI_§65
+      start: 0
+      end: 129
+  4e7f7608a4b44ed69b454cf46785ddf2:
+    work_id: W339842B9
+    span:
+      vol: CI_§66
+      start: 0
+      end: 1232
+  a0b646d39d374eb7b1e14ccc92c51e5c:
+    work_id: WB4308FF2
+    span:
+      vol: CI_§67
+      start: 0
+      end: 1228
+  70c826e82033499994a09276b89302d0:
+    work_id: W8968D868
+    span:
+      vol: CI_§68
+      start: 0
+      end: 352
+  afa3446d0c804e14b9d66ace59ad3ed9:
+    work_id: WB91614BD
+    span:
+      vol: CI_§69
+      start: 0
+      end: 781
+  d1a5a50041164541940f311336072f8b:
+    work_id: WAC82A3C2
+    span:
+      vol: CI_§70
+      start: 0
+      end: 2782
+  64478ef0f2554ebba8a70b2089d0e026:
+    work_id: W1B407797
+    span:
+      vol: CI_§71
+      start: 0
+      end: 2953
+  e10c73de5cdc42eebb54eecea734e2f1:
+    work_id: W929C678A
+    span:
+      vol: CI_§72
+      start: 0
+      end: 3756
+  5550c731cb1f411481626f74ae51d31e:
+    work_id: W32472ABA
+    span:
+      vol: CI_§73
+      start: 0
+      end: 1545
+  13eef6cf7bcd437eb5ed163338c9ae2d:
+    work_id: WBB786B4E
+    span:
+      vol: CI_§74
+      start: 0
+      end: 2215
+  eff0ba2d37f945f6a5ae6f0f5622a869:
+    work_id: WF58AE990
+    span:
+      vol: CI_§75
+      start: 0
+      end: 557
+  2cd73da80f084fe1858224312a46dc98:
+    work_id: W49C576CC
+    span:
+      vol: CI_§76
+      start: 0
+      end: 1995
+  9977ddaa31364e99a226f916e29ba387:
+    work_id: WBDC6B41D
+    span:
+      vol: CI_§77
+      start: 0
+      end: 908
+  87acc6c5cbae43408ce4732eb1a13060:
+    work_id: WDB662AED
+    span:
+      vol: CI_§78
+      start: 0
+      end: 1422
+  ba03bb0fae7f4813903ddb840d4261e1:
+    work_id: W1429439B
+    span:
+      vol: Title
+      start: 0
+      end: 3
